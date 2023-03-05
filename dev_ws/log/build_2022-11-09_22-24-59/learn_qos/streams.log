@@ -1,0 +1,41 @@
+[0.862s] Invoking command in '/home/mike/ros2_cool/07-qos/dev_ws/src/learn_qos': PYTHONPATH=/home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learn_qos build --build-base /home/mike/ros2_cool/07-qos/dev_ws/build/learn_qos/build install --prefix /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos --record /home/mike/ros2_cool/07-qos/dev_ws/build/learn_qos/install.log --single-version-externally-managed
+[1.231s] running egg_info
+[1.231s] creating ../../build/learn_qos/learn_qos.egg-info
+[1.232s] writing ../../build/learn_qos/learn_qos.egg-info/PKG-INFO
+[1.232s] writing dependency_links to ../../build/learn_qos/learn_qos.egg-info/dependency_links.txt
+[1.232s] writing entry points to ../../build/learn_qos/learn_qos.egg-info/entry_points.txt
+[1.233s] writing requirements to ../../build/learn_qos/learn_qos.egg-info/requires.txt
+[1.233s] writing top-level names to ../../build/learn_qos/learn_qos.egg-info/top_level.txt
+[1.233s] writing manifest file '../../build/learn_qos/learn_qos.egg-info/SOURCES.txt'
+[1.235s] reading manifest file '../../build/learn_qos/learn_qos.egg-info/SOURCES.txt'
+[1.236s] writing manifest file '../../build/learn_qos/learn_qos.egg-info/SOURCES.txt'
+[1.236s] running build
+[1.236s] running build_py
+[1.237s] creating /home/mike/ros2_cool/07-qos/dev_ws/build/learn_qos/build
+[1.237s] creating /home/mike/ros2_cool/07-qos/dev_ws/build/learn_qos/build/lib
+[1.238s] creating /home/mike/ros2_cool/07-qos/dev_ws/build/learn_qos/build/lib/learn_qos
+[1.240s] copying learn_qos/qos_helloworld_pub.py -> /home/mike/ros2_cool/07-qos/dev_ws/build/learn_qos/build/lib/learn_qos
+[1.240s] copying learn_qos/qos_helloworld_sub.py -> /home/mike/ros2_cool/07-qos/dev_ws/build/learn_qos/build/lib/learn_qos
+[1.241s] copying learn_qos/__init__.py -> /home/mike/ros2_cool/07-qos/dev_ws/build/learn_qos/build/lib/learn_qos
+[1.241s] running install
+[1.241s] running install_lib
+[1.242s] creating /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/lib/python3.10/site-packages/learn_qos
+[1.243s] copying /home/mike/ros2_cool/07-qos/dev_ws/build/learn_qos/build/lib/learn_qos/qos_helloworld_pub.py -> /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/lib/python3.10/site-packages/learn_qos
+[1.243s] copying /home/mike/ros2_cool/07-qos/dev_ws/build/learn_qos/build/lib/learn_qos/qos_helloworld_sub.py -> /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/lib/python3.10/site-packages/learn_qos
+[1.243s] copying /home/mike/ros2_cool/07-qos/dev_ws/build/learn_qos/build/lib/learn_qos/__init__.py -> /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/lib/python3.10/site-packages/learn_qos
+[1.244s] byte-compiling /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/lib/python3.10/site-packages/learn_qos/qos_helloworld_pub.py to qos_helloworld_pub.cpython-310.pyc
+[1.245s] byte-compiling /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/lib/python3.10/site-packages/learn_qos/qos_helloworld_sub.py to qos_helloworld_sub.cpython-310.pyc
+[1.245s] byte-compiling /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/lib/python3.10/site-packages/learn_qos/__init__.py to __init__.cpython-310.pyc
+[1.246s] running install_data
+[1.247s] creating /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/share/ament_index
+[1.248s] creating /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/share/ament_index/resource_index
+[1.249s] creating /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/share/ament_index/resource_index/packages
+[1.249s] copying resource/learn_qos -> /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/share/ament_index/resource_index/packages
+[1.250s] copying package.xml -> /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/share/learn_qos
+[1.250s] running install_egg_info
+[1.251s] Copying ../../build/learn_qos/learn_qos.egg-info to /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/lib/python3.10/site-packages/learn_qos-0.0.0-py3.10.egg-info
+[1.253s] running install_scripts
+[1.282s] Installing qos_helloworld_pub script to /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/lib/learn_qos
+[1.283s] Installing qos_helloworld_sub script to /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/lib/learn_qos
+[1.284s] writing list of installed files to '/home/mike/ros2_cool/07-qos/dev_ws/build/learn_qos/install.log'
+[1.343s] Invoked command in '/home/mike/ros2_cool/07-qos/dev_ws/src/learn_qos' returned '0': PYTHONPATH=/home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learn_qos build --build-base /home/mike/ros2_cool/07-qos/dev_ws/build/learn_qos/build install --prefix /home/mike/ros2_cool/07-qos/dev_ws/install/learn_qos --record /home/mike/ros2_cool/07-qos/dev_ws/build/learn_qos/install.log --single-version-externally-managed
